@@ -1,4 +1,4 @@
-🤘 Hi! I'm JeongHoon Kong, who want to be a s/w engineer.
+🤘 Hi! I'm JeongHoon Kong, who want to be a s/w engineer.  
 <a class="badge--anchor--item" href="mailto:rhdtl78@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/rhdtl78%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=FFFFFF"/>
 </a>
