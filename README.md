@@ -6,7 +6,7 @@
     <img src="https://img.shields.io/badge/Github%20Pages-%232e2e2e?style=flat&logo=github-pages&logoColor=FFFFFF"/>
 </a>
 
-I'm working in [Polycube](https://polycube.co.kr) in Seoul.
+I'm working in BIGS Co. LTD in Uijeongbu, Korea.
 
 I'm interested in Type/Javascript, Java, Kotlin.
 And also, NestJS, Springframework, React/Native.
